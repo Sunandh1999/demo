@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zEdtoOaBmdJbmhDfdidR62/hrKXDqQnWOMx/jk+uVjzE3AD6ZC6lzIeQ5VzbRJ5MpklLG1Xy0HR1712aLhkECQ==",
+  "dgSpecHash": "/fffFOnz8Azlfzuu1vnGthxRQag+vB+EIy1AhAwDSzHoMjYHNhZ+iq+Ln3SxcbqcOgqbnWTQRYbiLZvwneKlIQ==",
   "success": true,
-  "projectFilePath": "C:\\GitDemo\\PrjGit\\GitEx\\Git\\Git.csproj",
+  "projectFilePath": "C:\\GitDemo\\PrjGit\\GitEx\\Git\\Calculator.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

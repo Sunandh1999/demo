@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\GitDemo\\PrjGit\\GitEx\\Git\\Calculator.csproj",
-      "projectName": "Calculator",
-      "projectPath": "C:\\GitDemo\\PrjGit\\GitEx\\Git\\Calculator.csproj",
+      "projectUniqueName": "C:\\GitDemo\\PrjGit\\EmployeeDetails\\Employee\\Employee.csproj",
+      "projectName": "Employee",
+      "projectPath": "C:\\GitDemo\\PrjGit\\EmployeeDetails\\Employee\\Employee.csproj",
       "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "C:\\GitDemo\\PrjGit\\GitEx\\Git\\obj\\",
+      "outputPath": "C:\\GitDemo\\PrjGit\\EmployeeDetails\\Employee\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
